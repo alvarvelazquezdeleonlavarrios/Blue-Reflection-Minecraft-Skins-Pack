@@ -3,12 +3,16 @@
 Welcome! This is an **unofficial** project about the magical girls RPG videogame franchise **Blue Reflection**.
 
 
-This project contains the skins of each character seen on the games and the anime T.V. show, which can be used as custom skins for the player in Minecraft PC (Java, Bedrock, Windows 10) and Mobile (Pocket) editions (unfortunately, not supported in console versions).
+This project contains the skins of each character seen on the games and the anime T.V. show, which can be used as custom skins for the player in Minecraft PC (Java, Bedrock, Windows) and Mobile (Pocket) editions (unfortunately, not supported in console versions).
 
 As we know, in the games (and anime) there are students and *Reflectors*, magical girls who fight with the power of feelings. Therefore, this pack contains student and *reflector* skins.
 
 In the description below, is mentioned the pack structure and its content organized in the following folders. Each folder has custom skins for students and *reflectors* in their **classic (4px) and slim (3px) body** type respectively, so you don't need to edit the skin source images if you want change the body type (the images are in PNG format).
 
+
+For information about downloading and using the skins, read the [Manual](/MANUAL.md).
+
+For terms of use of this project, read the [License](/LICENSE).
 
 ## Blue Reflection
 Contains the skins of the characters from the first game of the franchise released in 2017: ***Blue Reflection***, also known as ***Blue Reflection: Sword of the Girl who Dances in Illusions***.
