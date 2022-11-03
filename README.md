@@ -41,6 +41,25 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection Reflector](/img/BlueReflectionReflectorCharacters.png)
 
+**Sailor Swimsuit:**
+- Ako Ichinose (Sailor Swimsuit)
+- Chihiro Inoue (Sailor Swimsuit)
+- Fumio Taya (Sailor Swimsuit)
+- Hinako Shirai (Sailor Swimsuit)
+- Kaori Mitsui (Sailor Swimsuit)
+- Kei Narimiya (Sailor Swimsuit)
+- Lime Shijou (Sailor Swimsuit)
+- Mao Ninagawa (Sailor Swimsuit)
+- Rika Yoshimura (Sailor Swimsuit)
+- Rin Sanada (Sailor Swimsuit)
+- Sanae Nishida (Sailor Swimsuit)
+- Sarasa Morikawa (Sailor Swimsuit)
+- Shihori Sugamoto (Sailor Swimsuit)
+- Yuri Saiki (Sailor Swimsuit)
+- Yuzu Shijou (Sailor Swimsuit)
+
+![Blue Reflection Sailor Swimsuit](/img/BlueReflectionSailorSwimsuit.png)
+
 ## Blue Reflection Ray
 Contains the skins of the characters from the anime T.V. show, spin-off of the first game, released in 2021.
 
@@ -105,7 +124,7 @@ Contains the skins of the characters from the sequel of the first game and the a
 
 ![Blue Reflection Tie Reflector](/img/BlueReflectionTieReflectorCharacters.png)
 
-**Hoshinomiya School Uniform Skins:**
+**Hoshinomiya School Uniform:**
 - Ao Hoshizaki (Hoshinomiya Uniform)
 - Hiori Hirahara (Hoshinomiya Uniform)
 - Kirara Kuno (Hoshinomiya Uniform)
@@ -117,6 +136,20 @@ Contains the skins of the characters from the sequel of the first game and the a
 - Yuki Kinjou (Hoshinomiya Uniform)
 
 ![Blue Reflection Tie Hoshinomiya](/img/BlueReflectionTieHoshinomiya.png)
+
+**Hoshinomiya Extreme Makeover Swimsuit:**
+- Ao Hoshizaki (Hoshinomiya Extreme Makeover Swimsuit)
+- Hinako Shirai (Hoshinomiya Extreme Makeover Swimsuit)
+- Hiori Hirahara (Hoshinomiya Extreme Makeover Swimsuit)
+- Kirara Kuno (Hoshinomiya Extreme Makeover Swimsuit)
+- Kokoro Utsubo (Hoshinomiya Extreme Makeover Swimsuit)
+- Mio Hirahara (Hoshinomiya Extreme Makeover Swimsuit)
+- Rena Miyauchi (Hoshinomiya Extreme Makeover Swimsuit)
+- Shiho Kasuga (Hoshinomiya Extreme Makeover Swimsuit)
+- Uta Komagawa (Hoshinomiya Extreme Makeover Swimsuit)
+- Yuki Kinjou (Hoshinomiya Extreme Makeover Swimsuit)
+
+![Blue Reflection Tie Hoshinomiya Extreme Makeover Swimsuit](/img/BlueReflectionTieHoshinomiyaExtremeMakeoverSwimsuit.png)
 
 **Summer Uniform:**
 - Ao Hoshizaki (summer uniform)
