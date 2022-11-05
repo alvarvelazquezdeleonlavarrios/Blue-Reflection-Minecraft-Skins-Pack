@@ -60,6 +60,15 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection Sailor Swimsuit](/img/BlueReflectionSailorSwimsuit.png)
 
+**Atelier Costumes**
+- Hinako Shirai (Rorona Costume)
+- Lime Shijou (Arland Maid - Hom Female)
+- Lime Shijou (Arland Maid - Hom Male)
+- Yuzu Shijou (Arland Maid - Hom Female)
+- Yuzu Shijou (Arland Maid - Hom Male)
+
+![Blue Reflection Atelier Costumes](/img/BlueReflectionAtelierCostumes.png)
+
 ## Blue Reflection Ray
 Contains the skins of the characters from the anime T.V. show, spin-off of the first game, released in 2021.
 
