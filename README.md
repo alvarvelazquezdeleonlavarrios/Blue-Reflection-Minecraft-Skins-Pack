@@ -41,6 +41,25 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection Reflector](/img/BlueReflectionReflectorCharacters.png)
 
+**School Swimsuit:**
+- Ako Ichinose (School Swimsuit)
+- Chihiro Inoue (School Swimsuit)
+- Fumio Taya (School Swimsuit)
+- Hinako Shirai (School Swimsuit)
+- Kaori Mitsui (School Swimsuit)
+- Kei Narimiya (School Swimsuit)
+- Lime Shijou (School Swimsuit)
+- Mao Ninagawa (School Swimsuit)
+- Rika Yoshimura (School Swimsuit)
+- Rin Sanada (School Swimsuit)
+- Sanae Nishida (School Swimsuit)
+- Sarasa Morikawa (School Swimsuit)
+- Shihori Sugamoto (School Swimsuit)
+- Yuri Saiki (School Swimsuit)
+- Yuzu Shijou (School Swimsuit)
+
+![Blue Reflection School Swimsuit](/img/BlueReflectionSchoolSwimsuit.png)
+
 **Sailor Swimsuit:**
 - Ako Ichinose (Sailor Swimsuit)
 - Chihiro Inoue (Sailor Swimsuit)
@@ -60,7 +79,7 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection Sailor Swimsuit](/img/BlueReflectionSailorSwimsuit.png)
 
-**Atelier Costumes**
+**Atelier Costumes:**
 - Hinako Shirai (Rorona Costume)
 - Lime Shijou (Arland Maid - Hom Female)
 - Lime Shijou (Arland Maid - Hom Male)
@@ -133,6 +152,20 @@ Contains the skins of the characters from the sequel of the first game and the a
 
 ![Blue Reflection Tie Reflector](/img/BlueReflectionTieReflectorCharacters.png)
 
+**Competitive Swimwear:**
+- Ao Hoshizaki (Competitive Swimwear)
+- Hinako Shirai (Competitive Swimwear)
+- Hiori Hirahara (Competitive Swimwear)
+- Kirara Kuno (Competitive Swimwear)
+- Kokoro Utsubo (Competitive Swimwear)
+- Mio Hirahara (Competitive Swimwear)
+- Rena Miyauchi (Competitive Swimwear)
+- Shiho Kasuga (Competitive Swimwear)
+- Uta Komagawa (Competitive Swimwear)
+- Yuki Kinjou (Competitive Swimwear)
+
+![Blue Reflection Tie Competitive Swimwear](/img/BlueReflectionTieCompetitiveSwimwear.png)
+
 **Hoshinomiya School Uniform:**
 - Ao Hoshizaki (Hoshinomiya Uniform)
 - Hiori Hirahara (Hoshinomiya Uniform)
@@ -182,6 +215,19 @@ Contains the skins of the uniforms of each character or school in the franchise.
 - Yuki's uniform
 
 ![Blue Reflection Uniforms](/img/BlueReflectionUniforms.png)
+
+## Costumes
+Contains the skins of the costumes used by the characters during the games and downloaded via DLC. They can be used as templates for characters from other video games or series, even for your own character if you want to cosplay him/her. Recomended to edit your custom character with the uniform templates via [Nova Skin](https://minecraft.novaskin.me/#) editor page.
+
+**Costumes:**
+- Rorona Costume
+- Arland Maid - Hom Female Costume
+- Arland Maid - Hom Male Costume
+- School Swimsuit
+- Competitive Swimwear
+- Hoshinomiya Extreme Makeover Swimsuit
+
+![Blue Reflection Costumes](/img/BlueReflectionCostumes.png)
 
 ### Disclaimer
 
