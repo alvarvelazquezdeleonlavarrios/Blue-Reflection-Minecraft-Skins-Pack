@@ -199,6 +199,20 @@ Contains the skins of the characters from the sequel of the first game and the a
 
 ![Blue Reflection Tie Summer](/img/BlueReflectionTieSummer.png)
 
+**Uniform Alternative Color:**
+- Ao Hoshizaki (uniform alternative color)
+- Hinako Shirai (uniform alternative color)
+- Hiori Hirahara (uniform alternative color)
+- Kirara Kuno (uniform alternative color)
+- Kokoro Utsubo (uniform alternative color)
+- Mio Hirahara (uniform alternative color)
+- Rena Miyauchi (uniform alternative color)
+- Shiho Kasuga (uniform alternative color)
+- Uta Komagawa (uniform alternative color)
+- Yuki Kinjou (uniform alternative color)
+
+![Blue Reflection Tie Uniform Alternative](/img/BlueReflectionTieUniformAlternative.png)
+
 ## Uniforms
 Contains the skins of the uniforms of each character or school in the franchise. They can be used as templates for characters from other video games or series, even for your own character if you want to cosplay him/her. Recomended to edit your custom character with the uniform templates via [Nova Skin](https://minecraft.novaskin.me/#) editor page.
 
