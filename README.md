@@ -179,6 +179,20 @@ Contains the skins of the characters from the sequel of the first game and the a
 
 ![Blue Reflection Tie Hoshinomiya](/img/BlueReflectionTieHoshinomiya.png)
 
+**Hoshinomiya Swimsuit:**
+- Ao Hoshizaki (Hoshinomiya Swimsuit)
+- Hinako Shirai (Hoshinomiya Swimsuit)
+- Hiori Hirahara (Hoshinomiya Swimsuit)
+- Kirara Kuno (Hoshinomiya Swimsuit)
+- Kokoro Utsubo (Hoshinomiya Swimsuit)
+- Mio Hirahara (Hoshinomiya Swimsuit)
+- Rena Miyauchi (Hoshinomiya Swimsuit)
+- Shiho Kasuga (Hoshinomiya Swimsuit)
+- Uta Komagawa (Hoshinomiya Swimsuit)
+- Yuki Kinjou (Hoshinomiya Swimsuit)
+
+![Blue Reflection Tie Hoshinomiya Swimsuit](/img/BlueReflectionTieHoshinomiyaSwimsuit.png)
+
 **Hoshinomiya Extreme Makeover Swimsuit:**
 - Ao Hoshizaki (Hoshinomiya Extreme Makeover Swimsuit)
 - Hinako Shirai (Hoshinomiya Extreme Makeover Swimsuit)
