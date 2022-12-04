@@ -32,14 +32,14 @@ Contains the skins of the characters from the first game of the franchise releas
 - Yuri Saiki
 - Yuzu Shijou (student)
 
-![Blue Reflection Student](/img/BlueReflectionStudentCharacters.png)
+![Blue Reflection Student](/img/br/BlueReflectionStudentCharacters.png)
 
 **Reflector skins:**
 - Hinako Shirai (reflector)
 - Lime Shijou (reflector)
 - Yuzu Shijou (reflector)
 
-![Blue Reflection Reflector](/img/BlueReflectionReflectorCharacters.png)
+![Blue Reflection Reflector](/img/br/BlueReflectionReflectorCharacters.png)
 
 **School Swimsuit:**
 - Ako Ichinose (School Swimsuit)
@@ -58,7 +58,7 @@ Contains the skins of the characters from the first game of the franchise releas
 - Yuri Saiki (School Swimsuit)
 - Yuzu Shijou (School Swimsuit)
 
-![Blue Reflection School Swimsuit](/img/BlueReflectionSchoolSwimsuit.png)
+![Blue Reflection School Swimsuit](/img/br/BlueReflectionSchoolSwimsuit.png)
 
 **Sailor Swimsuit:**
 - Ako Ichinose (Sailor Swimsuit)
@@ -77,7 +77,7 @@ Contains the skins of the characters from the first game of the franchise releas
 - Yuri Saiki (Sailor Swimsuit)
 - Yuzu Shijou (Sailor Swimsuit)
 
-![Blue Reflection Sailor Swimsuit](/img/BlueReflectionSailorSwimsuit.png)
+![Blue Reflection Sailor Swimsuit](/img/br/BlueReflectionSailorSwimsuit.png)
 
 **Atelier Costumes:**
 - Hinako Shirai (Rorona Costume)
@@ -86,7 +86,7 @@ Contains the skins of the characters from the first game of the franchise releas
 - Yuzu Shijou (Arland Maid - Hom Female)
 - Yuzu Shijou (Arland Maid - Hom Male)
 
-![Blue Reflection Atelier Costumes](/img/BlueReflectionAtelierCostumes.png)
+![Blue Reflection Atelier Costumes](/img/br/BlueReflectionAtelierCostumes.png)
 
 ## Blue Reflection Ray
 Contains the skins of the characters from the anime T.V. show, spin-off of the first game, released in 2021.
@@ -107,7 +107,7 @@ Contains the skins of the characters from the anime T.V. show, spin-off of the f
 - Yuri Saiki
 - Yuzu Shijou
 
-![Blue Reflection Ray Student](/img/BlueReflectionRayStudentCharacters.png)
+![Blue Reflection Ray Student](/img/brR/BlueReflectionRayStudentCharacters.png)
 
 **Reflector skins:**
 - Amiru Sumeragi (reflector)
@@ -121,7 +121,23 @@ Contains the skins of the characters from the anime T.V. show, spin-off of the f
 - Shino Mizusaki (reflector)
 - Uta Komagawa (reflector)
 
-![Blue Reflection Ray Reflector](/img/BlueReflectionRayReflectorCharacters.png)
+![Blue Reflection Ray Reflector](/img/brR/BlueReflectionRayReflectorCharacters.png)
+
+**Minor characters:**
+- Asako Ryono
+- Asako Ryono (student)
+- Ayumu Fujii
+- Kana Sugiura
+- Kaori Ema
+- Kaori Ema (Tennis Uniform)
+- Kombini Guy
+- Nozomi
+- Nozomi (Dress)
+- Yukiko Takaoka
+- Yuma Yazaki
+- Yuma Yazaki (Tennis Uniform)
+
+![Blue Reflection Ray Minor Characters](/img/brR/BlueReflectionRayMinorCharacters.png)
 
 ## Blue Reflection Tie
 Contains the skins of the characters from the sequel of the first game and the anime T.V. show, also known in west as ***Blue Reflection: Second Light***
@@ -140,7 +156,7 @@ Contains the skins of the characters from the sequel of the first game and the a
 - Yuki Kinjou
 - Yuzu Shijou
 
-![Blue Reflection Tie Student](/img/BlueReflectionTieStudentCharacters.png)
+![Blue Reflection Tie Student](/img/brT/BlueReflectionTieStudentCharacters.png)
 
 **Reflector skins:**
 - Ao Hoshizaki (reflector)
@@ -150,7 +166,7 @@ Contains the skins of the characters from the sequel of the first game and the a
 - Rena Miyauchi (reflector)
 - Shiho Kasuga (reflector)
 
-![Blue Reflection Tie Reflector](/img/BlueReflectionTieReflectorCharacters.png)
+![Blue Reflection Tie Reflector](/img/brT/BlueReflectionTieReflectorCharacters.png)
 
 **Competitive Swimwear:**
 - Ao Hoshizaki (Competitive Swimwear)
@@ -164,7 +180,7 @@ Contains the skins of the characters from the sequel of the first game and the a
 - Uta Komagawa (Competitive Swimwear)
 - Yuki Kinjou (Competitive Swimwear)
 
-![Blue Reflection Tie Competitive Swimwear](/img/BlueReflectionTieCompetitiveSwimwear.png)
+![Blue Reflection Tie Competitive Swimwear](/img/brT/BlueReflectionTieCompetitiveSwimwear.png)
 
 **Hoshinomiya School Uniform:**
 - Ao Hoshizaki (Hoshinomiya Uniform)
@@ -177,7 +193,7 @@ Contains the skins of the characters from the sequel of the first game and the a
 - Uta Komagawa (Hoshinomiya Uniform)
 - Yuki Kinjou (Hoshinomiya Uniform)
 
-![Blue Reflection Tie Hoshinomiya](/img/BlueReflectionTieHoshinomiya.png)
+![Blue Reflection Tie Hoshinomiya](/img/brT/BlueReflectionTieHoshinomiya.png)
 
 **Hoshinomiya Swimsuit:**
 - Ao Hoshizaki (Hoshinomiya Swimsuit)
@@ -191,7 +207,7 @@ Contains the skins of the characters from the sequel of the first game and the a
 - Uta Komagawa (Hoshinomiya Swimsuit)
 - Yuki Kinjou (Hoshinomiya Swimsuit)
 
-![Blue Reflection Tie Hoshinomiya Swimsuit](/img/BlueReflectionTieHoshinomiyaSwimsuit.png)
+![Blue Reflection Tie Hoshinomiya Swimsuit](/img/brT/BlueReflectionTieHoshinomiyaSwimsuit.png)
 
 **Hoshinomiya Extreme Makeover Swimsuit:**
 - Ao Hoshizaki (Hoshinomiya Extreme Makeover Swimsuit)
@@ -205,13 +221,13 @@ Contains the skins of the characters from the sequel of the first game and the a
 - Uta Komagawa (Hoshinomiya Extreme Makeover Swimsuit)
 - Yuki Kinjou (Hoshinomiya Extreme Makeover Swimsuit)
 
-![Blue Reflection Tie Hoshinomiya Extreme Makeover Swimsuit](/img/BlueReflectionTieHoshinomiyaExtremeMakeoverSwimsuit.png)
+![Blue Reflection Tie Hoshinomiya Extreme Makeover Swimsuit](/img/brT/BlueReflectionTieHoshinomiyaExtremeMakeoverSwimsuit.png)
 
 **Summer Uniform:**
 - Ao Hoshizaki (summer uniform)
 - Rena Miyauchi (summer uniform)
 
-![Blue Reflection Tie Summer](/img/BlueReflectionTieSummer.png)
+![Blue Reflection Tie Summer](/img/brT/BlueReflectionTieSummer.png)
 
 **Uniform Alternative Color:**
 - Ao Hoshizaki (uniform alternative color)
@@ -225,7 +241,13 @@ Contains the skins of the characters from the sequel of the first game and the a
 - Uta Komagawa (uniform alternative color)
 - Yuki Kinjou (uniform alternative color)
 
-![Blue Reflection Tie Uniform Alternative](/img/BlueReflectionTieUniformAlternative.png)
+![Blue Reflection Tie Uniform Alternative](/img/brT/BlueReflectionTieUniformAlternative.png)
+
+**Atelier Costumes:**
+- Ao Hoshizaki (Reisalin Stout Costume)
+- Ao Hoshizaki (Sophie Neuenmuller Costume)
+
+![Blue Reflection Tie Atelier Costumes](/img/brT/BlueReflectionTieAtelierCostumes.png)
 
 ## Uniforms
 Contains the skins of the uniforms of each character or school in the franchise. They can be used as templates for characters from other video games or series, even for your own character if you want to cosplay him/her. Recomended to edit your custom character with the uniform templates via [Nova Skin](https://minecraft.novaskin.me/#) editor page.
@@ -256,6 +278,11 @@ Contains the skins of the costumes used by the characters during the games and d
 - Hoshinomiya Extreme Makeover Swimsuit
 
 ![Blue Reflection Costumes](/img/BlueReflectionCostumes.png)
+
+- Reisalin Stout Costume
+- Sophie Neuenmuller Costume
+
+![Blue Reflection Tie Costumes](/img/BlueReflectionTieCostumes.png)
 
 ### Disclaimer
 
