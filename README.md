@@ -243,6 +243,34 @@ Contains the skins of the characters from the sequel of the first game and the a
 
 ![Blue Reflection Tie Uniform Alternative](/img/brT/BlueReflectionTieUniformAlternative.png)
 
+**Hospitable Kitties:**
+- Ao Hoshizaki (Hospitable Kitty)
+- Hinako Shirai (Hospitable Kitty)
+- Hiori Hirahara (Hospitable Kitty)
+- Kirara Kuno (Hospitable Kitty)
+- Kokoro Utsubo (Hospitable Kitty)
+- Mio Hirahara (Hospitable Kitty)
+- Rena Miyauchi (Hospitable Kitty)
+- Shiho Kasuga (Hospitable Kitty)
+- Uta Komagawa (Hospitable Kitty)
+- Yuki Kinjou (Hospitable Kitty)
+
+![Blue Reflection Tie Hospitable Kitties](/img/brT/BlueReflectionTieHospitableKitties.png)
+
+**Beachside Puppies:**
+- Ao Hoshizaki (Beachside Puppy)
+- Hinako Shirai (Beachside Puppy)
+- Hiori Hirahara (Beachside Puppy)
+- Kirara Kuno (Beachside Puppy)
+- Kokoro Utsubo (Beachside Puppy)
+- Mio Hirahara (Beachside Puppy)
+- Rena Miyauchi (Beachside Puppy)
+- Shiho Kasuga (Beachside Puppy)
+- Uta Komagawa (Beachside Puppy)
+- Yuki Kinjou (Beachside Puppy)
+
+![Blue Reflection Tie Beachside Puppies](/img/brT/BlueReflectionTieBeachsidePuppies.png)
+
 **Atelier Costumes:**
 - Ao Hoshizaki (Reisalin Stout Costume)
 - Ao Hoshizaki (Sophie Neuenmuller Costume)
