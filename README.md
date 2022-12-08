@@ -8,9 +8,10 @@ As we know, in the games (and anime) there are students and *Reflectors*, magica
 
 In the description below, is mentioned the pack structure and its content organized in the following folders. Each folder has custom skins for students and *reflectors* in their **classic (4px) and slim (3px) body** type respectively, so you don't need to edit the skin source images if you want change the body type (the images are in PNG format).
 
-For information about downloading and using the skins, read the [Manual](/MANUAL.md).
+For further information about downloading and using the skins, read the [Manual](/MANUAL.md).
 
 For terms of use of this project, read the [License](/LICENSE).
+
 
 ## Blue Reflection
 Contains the skins of the characters from the first game of the franchise released in 2017: ***Blue Reflection***, also known as ***Blue Reflection: Sword of the Girl who Dances in Illusions***.
@@ -88,6 +89,7 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection Atelier Costumes](/img/br/BlueReflectionAtelierCostumes.png)
 
+
 ## Blue Reflection Ray
 Contains the skins of the characters from the anime T.V. show, spin-off of the first game, released in 2021.
 
@@ -138,6 +140,7 @@ Contains the skins of the characters from the anime T.V. show, spin-off of the f
 - Yuma Yazaki (Tennis Uniform)
 
 ![Blue Reflection Ray Minor Characters](/img/brR/BlueReflectionRayMinorCharacters.png)
+
 
 ## Blue Reflection Tie
 Contains the skins of the characters from the sequel of the first game and the anime T.V. show, also known in west as ***Blue Reflection: Second Light***
@@ -277,6 +280,7 @@ Contains the skins of the characters from the sequel of the first game and the a
 
 ![Blue Reflection Tie Atelier Costumes](/img/brT/BlueReflectionTieAtelierCostumes.png)
 
+
 ## Uniforms
 Contains the skins of the uniforms of each character or school in the franchise. They can be used as templates for characters from other video games or series, even for your own character if you want to cosplay him/her. Recomended to edit your custom character with the uniform templates via [Nova Skin](https://minecraft.novaskin.me/#) editor page.
 
@@ -293,6 +297,7 @@ Contains the skins of the uniforms of each character or school in the franchise.
 - Yuki's uniform
 
 ![Blue Reflection Uniforms](/img/BlueReflectionUniforms.png)
+
 
 ## Costumes
 Contains the skins of the costumes used by the characters during the games and downloaded via DLC. They can be used as templates for characters from other video games or series, even for your own character if you want to cosplay him/her. Recomended to edit your custom character with the uniform templates via [Nova Skin](https://minecraft.novaskin.me/#) editor page.
@@ -311,6 +316,7 @@ Contains the skins of the costumes used by the characters during the games and d
 - Sophie Neuenmuller Costume
 
 ![Blue Reflection Tie Costumes](/img/BlueReflectionTieCostumes.png)
+
 
 ### Disclaimer
 
