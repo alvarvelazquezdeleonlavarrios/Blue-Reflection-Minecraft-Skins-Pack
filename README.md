@@ -80,6 +80,25 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection Sailor Swimsuit](/img/br/BlueReflectionSailorSwimsuit.png)
 
+**Bath Towel:**
+- Ako Ichinose (Bath Towel)
+- Chihiro Inoue (Bath Towel)
+- Fumio Taya (Bath Towel)
+- Hinako Shirai (Bath Towel)
+- Kaori Mitsui (Bath Towel)
+- Kei Narimiya (Bath Towel)
+- Lime Shijou (Bath Towel)
+- Mao Ninagawa (Bath Towel)
+- Rika Yoshimura (Bath Towel)
+- Rin Sanada (Bath Towel)
+- Sanae Nishida (Bath Towel)
+- Sarasa Morikawa (Bath Towel)
+- Shihori Sugamoto (Bath Towel)
+- Yuri Saiki (Bath Towel)
+- Yuzu Shijou (Bath Towel)
+
+![Blue Reflection Bath Towel](/img/br/BlueReflectionBathTowel.png)
+
 **Atelier Costumes:**
 - Hinako Shirai (Rorona Costume)
 - Lime Shijou (Arland Maid - Hom Female)
