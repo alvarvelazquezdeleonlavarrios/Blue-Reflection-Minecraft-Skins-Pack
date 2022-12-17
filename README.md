@@ -108,6 +108,12 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection Atelier Costumes](/img/br/BlueReflectionAtelierCostumes.png)
 
+**Christmas Outfits:**
+- Hinako Shirai (Christmas Outfit)
+- Yuzu Shijou (Christmas Outfit)
+- Lime Shijou (Christmas Outfit)
+
+![Blue Reflection Christmas Outfits](/img/br/BlueReflectionChristmasOutfits.png)
 
 ## Blue Reflection Ray
 Contains the skins of the characters from the anime T.V. show, spin-off of the first game, released in 2021.
@@ -249,7 +255,22 @@ Contains the skins of the characters from the sequel of the first game and the a
 - Ao Hoshizaki (summer uniform)
 - Rena Miyauchi (summer uniform)
 
-![Blue Reflection Tie Summer](/img/brT/BlueReflectionTieSummer.png)
+![Blue Reflection Tie Summer Uniforms](/img/brT/BlueReflectionTieSummerUniforms.png)
+
+**Bikinis:**
+- Ao Hoshizaki (Summer Bikini)
+- Ao Hoshizaki (Canary Green Bikini)
+
+![Blue Reflection Tie Bikinis](/img/brT/BlueReflectionTieBikinis.png)
+
+**Accessories for Ao:**
+- Ao Hoshizaki (Bunny Head Accessory)
+- Ao Hoshizaki (Bunny Ear Headband)
+- Ao Hoshizaki (Summer Sunglasses)
+- Ao Hoshizaki (Sunflower Headband)
+- Ao Hoshizaki (Sunflower Headband & Summer Sunglasses)
+
+![Blue Reflection Tie Accessories for Ao](/img/brT/BlueReflectionTieAccesoriesForAo.png)
 
 **Uniform Alternative Color:**
 - Ao Hoshizaki (uniform alternative color)
@@ -299,6 +320,13 @@ Contains the skins of the characters from the sequel of the first game and the a
 
 ![Blue Reflection Tie Atelier Costumes](/img/brT/BlueReflectionTieAtelierCostumes.png)
 
+**Christmas Outfits:**
+- Ao Hoshizaki (Christmas Outfit)
+- Shiho Kasuga (Christmas Outfit)
+- Hiori Hirahara (Christmas Outfit)
+
+![Blue Reflection Tie Christmas Outfits](/img/brT/BlueReflectionTieChristmasOutfits.png)
+
 
 ## Uniforms
 Contains the skins of the uniforms of each character or school in the franchise. They can be used as templates for characters from other video games or series, even for your own character if you want to cosplay him/her. Recomended to edit your custom character with the uniform templates via [Nova Skin](https://minecraft.novaskin.me/#) editor page.
@@ -321,20 +349,36 @@ Contains the skins of the uniforms of each character or school in the franchise.
 ## Costumes
 Contains the skins of the costumes used by the characters during the games and downloaded via DLC. They can be used as templates for characters from other video games or series, even for your own character if you want to cosplay him/her. Recomended to edit your custom character with the uniform templates via [Nova Skin](https://minecraft.novaskin.me/#) editor page.
 
-**Costumes:**
+**Costumes (Blue Reflection):**
 - Rorona Costume
 - Arland Maid - Hom Female Costume
 - Arland Maid - Hom Male Costume
 - School Swimsuit
-- Competitive Swimwear
-- Hoshinomiya Extreme Makeover Swimsuit
+- Sailor Swimsuit
 
-![Blue Reflection Costumes](/img/BlueReflectionCostumes.png)
+![Blue Reflection Costumes](/img/costumes/BlueReflectionCostumes.png)
 
+**Costumes (Blue Reflection Tie):**
 - Reisalin Stout Costume
 - Sophie Neuenmuller Costume
+- Competitive Swimwear
+- Summer Bikini
+- Canary Green Bikini
 
-![Blue Reflection Tie Costumes](/img/BlueReflectionTieCostumes.png)
+![Blue Reflection Tie Costumes](/img/costumes/BlueReflectionTieCostumes.png)
+
+
+## Accessories
+Contains the skins of the accessories used by the characters during the games and downloaded via DLC. They can be used as templates for characters from other video games or series, even for your own character if you want to cosplay him/her. Recomended to edit your custom character with the accessory templates via [Nova Skin](https://minecraft.novaskin.me/#) editor page.
+
+
+**Accessories (Blue Reflection Tie):**
+- Bunny Ear Headband
+- Bunny Head Accessory
+- Summer Sunglasses
+- Sunflower Headband
+
+![Blue Reflection Tie Accessories](/img/accessories/BlueReflectionTieAccessories.png)
 
 
 ### Disclaimer
