@@ -115,13 +115,13 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection Christmas Outfits](/img/br/BlueReflectionChristmasOutfits.png)
 
+
 ## Blue Reflection Ray
 Contains the skins of the characters from the anime T.V. show, spin-off of the first game, released in 2021.
 
 **Student skins:**
 - Amiru Sumeragi (student)
 - Hiori Hirahara (student)
-- Kokoro Utsubo
 - Lime Shijou
 - Mio Hirahara (student)
 - Miyako Shirakaba
@@ -152,19 +152,43 @@ Contains the skins of the characters from the anime T.V. show, spin-off of the f
 
 **Minor characters:**
 - Asako Ryono
-- Asako Ryono (student)
 - Ayumu Fujii
 - Kana Sugiura
+- Kano Mizusaki
 - Kaori Ema
-- Kaori Ema (Tennis Uniform)
+- Kokoro Utsubo
 - Kombini Guy
 - Nozomi
-- Nozomi (Dress)
 - Yukiko Takaoka
 - Yuma Yazaki
-- Yuma Yazaki (Tennis Uniform)
 
 ![Blue Reflection Ray Minor Characters](/img/brR/BlueReflectionRayMinorCharacters.png)
+
+**Additional skins:**
+- Hiori Hirahara (Physical Education Uniform)
+- Ruka Hanari (Physical Education Uniform)
+- Momo Tanabe (Physical Education Uniform)
+- Miyako Shirakaba (Physical Education Uniform)
+- Uta Komagawa (First Grade Saint Inés Uniform)
+- Momo Tanabe (Platanus Uniform)
+- Mio Hirahara (Platanus Uniform)
+- Ruka Hanari (First School Uniform)
+- Momo Tanabe (First School Uniform)
+- Uta Komagawa (Barefoot)
+
+![Blue Reflection Ray Additional Skins](/img/brR/BlueReflectionRayAdditionalSkins.png)
+
+- Hiori Hirahara (Middle School Uniform)
+- Shino Mizusaki (Middle School Uniform)
+- Mio Hirahara (Middle School Uniform)
+- Kana Sugiura (Tanabata Yukata)
+- Ayumu Fujii (Tanabata Yukata)
+- Asako Ryono (Student)
+- Nozomi (Dress)
+- Kaori Ema (Tennis Uniform)
+- Yuma Yazaki (Tennis Uniform)
+
+![Blue Reflection Ray Additional Skins 2](/img/brR/BlueReflectionRayAdditionalSkins2.png)
 
 
 ## Blue Reflection Tie
