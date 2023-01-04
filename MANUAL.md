@@ -9,7 +9,7 @@ This is the easiest way to download the skin images on the PC's disk. Recommende
 * Step 2: Click on the **Download ZIP** option to save a compressed file of the project on your PC's Downloads folder
 * Step 3: Uncompress the ZIP file and move the folder to your favorite location.
 
-![DownloadPCgui](/img/manual/DownloadPCgui.png)
+![DownloadPCgui](/src/img/manual/DownloadPCgui.png)
 
 ### Command Line method
 
@@ -26,7 +26,7 @@ Due to changes in GitHub's policies, you cannot use anymore Git commands with yo
 
 1. After installing Git on your PC, in your GitHub account you've to generate a personal access token (PAT). For that, go to your **Setting --> Developer setting --> Personal access tokens** and click on the button **Generate new token**.
 
-![DownloadPCtoken](/img/manual/DownloadPCtoken.png)
+![DownloadPCtoken](/src/img/manual/DownloadPCtoken.png)
 
 2. Give that token a descriptive name, set the expiration time and select the permissions you want (for this project, is enough with _repo_ permissions). Click the green button **Generate token**.
 3. Next, copy the token generated to your clipboard or an auxilar plaintext file. ***Caution: you must save temporarily that token, or you won't be able to see it again!***
@@ -46,7 +46,7 @@ For more information about linking your keychain to GitHub, read these two pages
 2. In the GitHub repository, click on the **Code** button from the code section of the repository.
 3. In the HTTPS section, copy the url to your clipboard.
 
-![DownloadPCurl](/img/manual/DownloadPCurl.png)
+![DownloadPCurl](/src/img/manual/DownloadPCurl.png)
 
 4. Type the command `git clone URL`, where URL is the link copied in the previous step, in the Git Bash and press Enter.
 5. The first time, you've to enter the following information:
@@ -91,6 +91,6 @@ The process is the same as with other custom skins:
 ### Mobile version (Pocket Edition)
 The process for Mobile devices is the same as for PC, but the skin files must be allocated in the **photos application** of your mobile phone or tablet.
 
-![MinecraftHinako](/img/manual/MinecraftHinako.png)
+![MinecraftHinako](/src/img/manual/MinecraftHinako.png)
 
-![MinecraftCustomSkin](/img/manual/MinecraftCustomSkin.png)
+![MinecraftCustomSkin](/src/img/manual/MinecraftCustomSkin.png)
