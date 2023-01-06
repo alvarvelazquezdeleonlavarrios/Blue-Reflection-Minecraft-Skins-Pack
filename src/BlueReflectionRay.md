@@ -46,6 +46,27 @@ Contains the skins of the characters from the anime T.V. show, spin-off of the f
 
 ![Blue Reflection Ray Minor Characters](/src/img/brR/BlueReflectionRayMinorCharacters.png)
 
+**Children:**
+- Hiori Hirahara (child)
+- Shino Mizusaki (child)
+- Kano Mizusaki (child)
+- Niina Yamada (child)
+
+![Blue Reflection Ray Children](/src/img/brR/BlueReflectionRayChildren.png)
+
+**Casual Outfits:**
+- Hiori Hirahara (Casual Outfit 1)
+- Hiori Hirahara (Casual Outfit 2)
+- Hiori Hirahara (Casual Outfit 3)
+- Hiori Hirahara (Casual Outfit 4)
+- Hiori Hirahara (Casual Outfit 5)
+- Ruka Hanari (Casual Outfit 1)
+- Ruka Hanari (Casual Outfit 2)
+- Ruka Hanari (Casual Outfit 3)
+- Ruka Hanari (Casual Outfit 4)
+
+![Blue Reflection Casual Outfits](/src/img/brR/BlueReflectionRayCasualOutfits.png)
+
 **Additional skins:**
 - Hiori Hirahara (Physical Education Uniform)
 - Ruka Hanari (Physical Education Uniform)

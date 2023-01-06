@@ -84,6 +84,25 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection Bath Towel](/src/img/br/BlueReflectionBathTowel.png)
 
+**Summer Clothes:**
+- Ako Ichinose (Summer Clothes)
+- Chihiro Inoue (Summer Clothes)
+- Fumio Taya (Summer Clothes)
+- Hinako Shirai (Summer Clothes)
+- Kaori Mitsui (Summer Clothes)
+- Kei Narimiya (Summer Clothes)
+- Lime Shijou (Summer Clothes)
+- Mao Ninagawa (Summer Clothes)
+- Rika Yoshimura (Summer Clothes)
+- Rin Sanada (Summer Clothes)
+- Sanae Nishida (Summer Clothes)
+- Sarasa Morikawa (Summer Clothes)
+- Shihori Sugamoto (Summer Clothes)
+- Yuri Saiki (Summer Clothes)
+- Yuzu Shijou (Summer Clothes)
+
+![Blue Reflection Summer Clothes](/src/img/br/BlueReflectionSummerClothes.png)
+
 **Atelier Costumes:**
 - Hinako Shirai (Rorona Costume)
 - Lime Shijou (Arland Maid - Hom Female)

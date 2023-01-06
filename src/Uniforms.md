@@ -13,4 +13,4 @@ Contains the skins of the uniforms of each character or school in the franchise.
 - Tsukinomiya uniform
 - Yuki's uniform
 
-![Blue Reflection Uniforms](/src/img/BlueReflectionUniforms.png)
+![Blue Reflection Uniforms](/src/img/uniforms/BlueReflectionUniforms.png)
