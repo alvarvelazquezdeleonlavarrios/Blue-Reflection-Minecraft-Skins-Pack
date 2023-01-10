@@ -28,9 +28,11 @@ Contains the skins of the characters from the anime T.V. show, spin-off of the f
 - Ruka Hanari (reflector)
 - Ryoka Tachibana (reflector)
 - Shino Mizusaki (reflector)
+- Shino Mizusaki (reflector 2)
 - Uta Komagawa (reflector)
 
 ![Blue Reflection Ray Reflector](/src/img/brR/BlueReflectionRayReflectorCharacters.png)
+![Blue Reflection Ray Shino Mizusaki Reflector](/src/img/brR/BlueReflectionRayReflectorShinoMizusaki.png)
 
 **Minor characters:**
 - Asako Ryono
@@ -54,18 +56,38 @@ Contains the skins of the characters from the anime T.V. show, spin-off of the f
 
 ![Blue Reflection Ray Children](/src/img/brR/BlueReflectionRayChildren.png)
 
+**First Timeline Characters:**
+- Mio Hirahara (First Timeline Student)
+- Mio Hirahara (First Timeline Reflector)
+- Momo Tanabe (First Timeline Outfit)
+
+![Blue Reflection Ray First Timeline](/src/img/brR/BlueReflectionRayFirstTimeline.png)
+![Blue Reflection Ray First Timeline 2](/src/img/brR/BlueReflectionRayFirstTimeline2.png)
+
 **Casual Outfits:**
 - Hiori Hirahara (Casual Outfit 1)
 - Hiori Hirahara (Casual Outfit 2)
 - Hiori Hirahara (Casual Outfit 3)
 - Hiori Hirahara (Casual Outfit 4)
 - Hiori Hirahara (Casual Outfit 5)
+- Hiori Hirahara (Casual Outfit 6)
 - Ruka Hanari (Casual Outfit 1)
 - Ruka Hanari (Casual Outfit 2)
 - Ruka Hanari (Casual Outfit 3)
 - Ruka Hanari (Casual Outfit 4)
 
 ![Blue Reflection Casual Outfits](/src/img/brR/BlueReflectionRayCasualOutfits.png)
+
+- Momo Tanabe (Casual Outfit 1)
+- Momo Tanabe (Casual Outfit 2)
+- Momo Tanabe (Casual Outfit 3)
+- Momo Tanabe (Casual Outfit 4)
+- Miyako Shirakaba (Casual Outfit 1)
+- Miyako Shirakaba (Casual Outfit 2)
+- Miyako Shirakaba (Casual Outfit 3)
+- Miyako Shirakaba (Casual Outfit 4)
+
+![Blue Reflection Casual Outfits 2](/src/img/brR/BlueReflectionRayCasualOutfits2.png)
 
 **Additional skins:**
 - Hiori Hirahara (Physical Education Uniform)

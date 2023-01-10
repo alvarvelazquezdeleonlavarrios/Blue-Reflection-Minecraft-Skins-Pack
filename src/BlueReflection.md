@@ -103,6 +103,25 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection Summer Clothes](/src/img/br/BlueReflectionSummerClothes.png)
 
+**Vacation Style:**
+- Ako Ichinose (Vacation Style)
+- Chihiro Inoue (Vacation Style)
+- Fumio Taya (Vacation Style)
+- Hinako Shirai (Vacation Style)
+- Kaori Mitsui (Vacation Style)
+- Kei Narimiya (Vacation Style)
+- Lime Shijou (Vacation Style)
+- Mao Ninagawa (Vacation Style)
+- Rika Yoshimura (Vacation Style)
+- Rin Sanada (Vacation Style)
+- Sanae Nishida (Vacation Style)
+- Sarasa Morikawa (Vacation Style)
+- Shihori Sugamoto (Vacation Style)
+- Yuri Saiki (Vacation Style)
+- Yuzu Shijou (Vacation Style)
+
+![Blue Reflection Vacation Style](/src/img/br/BlueReflectionVacationStyle.png)
+
 **Atelier Costumes:**
 - Hinako Shirai (Rorona Costume)
 - Lime Shijou (Arland Maid - Hom Female)
