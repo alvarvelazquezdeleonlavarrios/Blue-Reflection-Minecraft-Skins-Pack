@@ -90,10 +90,10 @@ Contains the skins of the characters from the anime T.V. show, spin-off of the f
 ![Blue Reflection Casual Outfits 2](/src/img/brR/BlueReflectionRayCasualOutfits2.png)
 
 **Additional skins:**
-- Hiori Hirahara (Physical Education Uniform)
-- Ruka Hanari (Physical Education Uniform)
-- Momo Tanabe (Physical Education Uniform)
-- Miyako Shirakaba (Physical Education Uniform)
+- Hiori Hirahara (Gym Uniform)
+- Ruka Hanari (Gym Uniform)
+- Momo Tanabe (Gym Uniform)
+- Miyako Shirakaba (Gym Uniform)
 - Uta Komagawa (First Grade Saint Inés Uniform)
 - Momo Tanabe (Platanus Uniform)
 - Mio Hirahara (Platanus Uniform)
