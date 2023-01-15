@@ -5,7 +5,6 @@ Contains the skins of the costumes used by the characters during the games and d
 - Rorona Costume
 - Arland Maid - Hom Female Costume
 - Arland Maid - Hom Male Costume
-- School Swimsuit
 - Sailor Swimsuit
 
 ![Blue Reflection Costumes](/src/img/costumes/BlueReflectionCostumes.png)
@@ -13,7 +12,6 @@ Contains the skins of the costumes used by the characters during the games and d
 **Costumes (Blue Reflection Tie):**
 - Reisalin Stout Costume
 - Sophie Neuenmuller Costume
-- Competitive Swimwear
 - Summer Bikini
 - Canary Green Bikini
 
