@@ -89,6 +89,20 @@ Contains the skins of the characters from the anime T.V. show, spin-off of the f
 
 ![Blue Reflection Casual Outfits 2](/src/img/brR/BlueReflectionRayCasualOutfits2.png)
 
+- Mio Hirahara (Casual Outfit 1)
+- Mio Hirahara (Casual Outfit 2)
+- Mio Hirahara (Casual Outfit 3)
+- Mio Hirahara (Casual Outfit 4)
+- Mio Hirahara (Casual Outfit 5)
+- Mio Hirahara (Casual Outfit 6)
+- Niina Yamada (Casual Outfit 1)
+- Niina Yamada (Casual Outfit 2)
+- Niina Yamada (Casual Outfit 3)
+- Ryoka Tachibana (Casual Outfit)
+- Amiru Sumeragi (Casual Outfit)
+
+![Blue Reflection Casual Outfits 3](/src/img/brR/BlueReflectionRayCasualOutfits3.png)
+
 **Additional skins:**
 - Hiori Hirahara (Gym Uniform)
 - Ruka Hanari (Gym Uniform)

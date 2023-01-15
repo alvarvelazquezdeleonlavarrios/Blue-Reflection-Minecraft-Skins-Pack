@@ -46,6 +46,25 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection School Swimsuit](/src/img/br/BlueReflectionSchoolSwimsuit.png)
 
+**Gym Uniform:**
+- Ako Ichinose (Gym Uniform)
+- Chihiro Inoue (Gym Uniform)
+- Fumio Taya (Gym Uniform)
+- Hinako Shirai (Gym Uniform)
+- Kaori Mitsui (Gym Uniform)
+- Kei Narimiya (Gym Uniform)
+- Lime Shijou (Gym Uniform)
+- Mao Ninagawa (Gym Uniform)
+- Rika Yoshimura (Gym Uniform)
+- Rin Sanada (Gym Uniform)
+- Sanae Nishida (Gym Uniform)
+- Sarasa Morikawa (Gym Uniform)
+- Shihori Sugamoto (Gym Uniform)
+- Yuri Saiki (Gym Uniform)
+- Yuzu Shijou (Gym Uniform)
+
+![Blue Reflection Gym Uniform](/src/img/br/BlueReflectionGymUniform.png)
+
 **Sailor Swimsuit:**
 - Ako Ichinose (Sailor Swimsuit)
 - Chihiro Inoue (Sailor Swimsuit)
@@ -130,6 +149,25 @@ Contains the skins of the characters from the first game of the franchise releas
 - Yuzu Shijou (Arland Maid - Hom Male)
 
 ![Blue Reflection Atelier Costumes](/src/img/br/BlueReflectionAtelierCostumes.png)
+
+**Green Sports Outfit:**
+- Ako Ichinose (Green Sports Outfit)
+- Chihiro Inoue (Green Sports Outfit)
+- Fumio Taya (Green Sports Outfit)
+- Hinako Shirai (Green Sports Outfit)
+- Kaori Mitsui (Green Sports Outfit)
+- Kei Narimiya (Green Sports Outfit)
+- Lime Shijou (Green Sports Outfit)
+- Mao Ninagawa (Green Sports Outfit)
+- Rika Yoshimura (Green Sports Outfit)
+- Rin Sanada (Green Sports Outfit)
+- Sanae Nishida (Green Sports Outfit)
+- Sarasa Morikawa (Green Sports Outfit)
+- Shihori Sugamoto (Green Sports Outfit)
+- Yuri Saiki (Green Sports Outfit)
+- Yuzu Shijou (Green Sports Outfit)
+
+![Blue Reflection Green Sports Outfit](/src/img/br/BlueReflectionGreenSportsOutfit.png)
 
 **Christmas Outfits:**
 - Hinako Shirai (Christmas Outfit)
