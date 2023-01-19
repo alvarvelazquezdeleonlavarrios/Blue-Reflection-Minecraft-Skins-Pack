@@ -142,13 +142,28 @@ Contains the skins of the characters from the first game of the franchise releas
 ![Blue Reflection Vacation Style](/src/img/br/BlueReflectionVacationStyle.png)
 
 **Atelier Costumes:**
-- Hinako Shirai (Rorona Costume)
+- Hinako Shirai (Rorolina Frixell Costume)
+- Hinako Shirai (Firis Mistlud Costume)
+
+![Blue Reflection Atelier Costumes](/src/img/br/BlueReflectionAtelierCostumes.png)
+
 - Lime Shijou (Arland Maid - Hom Female)
 - Lime Shijou (Arland Maid - Hom Male)
 - Yuzu Shijou (Arland Maid - Hom Female)
 - Yuzu Shijou (Arland Maid - Hom Male)
 
-![Blue Reflection Atelier Costumes](/src/img/br/BlueReflectionAtelierCostumes.png)
+![Blue Reflection Atelier Meruru Costumes](/src/img/br/BlueReflectionAtelierMeruruCostumes.png)
+
+**Final Fantasy XV Costumes:**
+- Hinako Shirai (Aranea Highwind Costume)
+- Kaori Mitsui (Cindy Aurum Costume)
+
+![Blue Reflection Final Fantasy XV Costumes](/src/img/br/BlueReflectionFinalFantasyXVCostumes.png)
+
+**Nights of Azure Costume:**
+- Hinako Shirai (Aluche Anatoria Costume)
+
+![Blue Reflection Nights of Azure Costume](/src/img/br/BlueReflectionNightsOfAzureCostume.png)
 
 **Green Sports Outfit:**
 - Ako Ichinose (Green Sports Outfit)
