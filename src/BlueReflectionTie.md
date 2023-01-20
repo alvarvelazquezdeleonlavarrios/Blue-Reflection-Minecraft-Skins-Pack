@@ -151,6 +151,11 @@ Contains the skins of the characters from the sequel of the first game and the a
 
 ![Blue Reflection Tie Atelier Costumes](/src/img/brT/BlueReflectionTieAtelierCostumes.png)
 
+**Halloween Costume:**
+- Kokoro Utsubo (Halloween Costume)
+
+![Blue Reflection Tie Halloween Costume](/src/img/brT/BlueReflectionTieHalloweenCostume.png)
+
 **Christmas Outfits:**
 - Ao Hoshizaki (Christmas Outfit)
 - Shiho Kasuga (Christmas Outfit)

@@ -128,3 +128,16 @@ Contains the skins of the characters from the anime T.V. show, spin-off of the f
 - Yuma Yazaki (Tennis Uniform)
 
 ![Blue Reflection Ray Additional Skins 2](/src/img/brR/BlueReflectionRayAdditionalSkins2.png)
+
+**Pajamas:**
+- Hiori Hirahara (Pajama)
+- Ruka Hanari (Pajama)
+- Miyako Shirakaba (Pajama)
+- Shino Mizusaki (Pajama)
+- Kano Mizusaki (Pajama)
+- Ryoka Tachibana (Pajama)
+- Amiru Sumeragi (Pajama)
+- Shino Mizusaki (Pajama Child)
+- Kano Mizusaki (Pajama Child)
+
+![Blue Reflection Ray Pajamas](/src/img/brR/BlueReflectionRayPajamas.png)
