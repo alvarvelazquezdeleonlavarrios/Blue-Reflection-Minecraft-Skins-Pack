@@ -184,6 +184,18 @@ Contains the skins of the characters from the first game of the franchise releas
 
 ![Blue Reflection Green Sports Outfit](/src/img/br/BlueReflectionGreenSportsOutfit.png)
 
+**Casual Outfits:**
+- Hinako Shirai (Casual Outfit)
+- Yuzu Shijou (Casual Outfit)
+- Lime Shijou (Casual Outfit)
+
+![Blue Reflection Casual Outfits](/src/img/br/BlueReflectionCasualOutfits.png)
+
+**Pajama:**
+- Hinako Shirai (Pajama)
+
+![Blue Reflection Pajama](/src/img/br/BlueReflectionPajama.png)
+
 **Christmas Outfits:**
 - Hinako Shirai (Christmas Outfit)
 - Yuzu Shijou (Christmas Outfit)
