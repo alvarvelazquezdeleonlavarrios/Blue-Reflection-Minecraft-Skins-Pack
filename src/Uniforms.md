@@ -15,6 +15,16 @@ Contains the skins of the uniforms of each character or school in the franchise.
 
 ![Blue Reflection Uniforms](/src/img/uniforms/BlueReflectionUniforms.png)
 
+- Ayami's School Uniform
+- Kanna's School Uniform
+- Měiqí's School Uniform
+- Nanaka's School Uniform
+- Yu Alesia's School Uniform
+- Yukiko's School Uniform
+- Protagonist's School Uniform
+
+![Blue Reflection Uniforms 2](/src/img/uniforms/BlueReflectionUniforms2.png)
+
 - Hoshinomiya School Swimsuit
 - Competitive Swimwear
 - Hoshinomiya School Gym Uniform

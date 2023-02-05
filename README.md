@@ -6,11 +6,12 @@ This project contains the skins of each character seen on the games and the anim
 
 As we know, in the games (and anime) there are students and *Reflectors*, magical girls who fight with the power of feelings. Therefore, this pack contains student and *reflector* skins.
 
-In each link below, is mentioned the pack structure and its content organized in the following folders. Each folder has custom skins for students and *reflectors* in their **classic (4px) and slim (3px) body** type respectively, so you don't need to edit the skin source images if you want change the body type (the images are in PNG format).
+In each link below, is mentioned the pack structure and its content organized in the following folders. Each one has custom skins for students and *reflectors* in their **classic (4px) and slim (3px) body** type respectively, so you don't need to edit the skins images if you want to change the body type (these are in PNG format).
 
 - [Blue Reflection](/src/BlueReflection.md)
 - [Blue Reflection Ray](/src/BlueReflectionRay.md)
 - [Blue Reflection Tie](/src/BlueReflectionTie.md)
+- [Blue Reflection Sun](/src/BlueReflectionSun.md)
 - [Uniforms](/src/Uniforms.md)
 - [Costumes](/src/Costumes.md)
 - [Accessories](/src/Accessories.md)

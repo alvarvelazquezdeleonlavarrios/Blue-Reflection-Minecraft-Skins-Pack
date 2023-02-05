@@ -20,3 +20,41 @@ Contains the skins of the costumes used by the characters during the games and d
 - Canary Green Bikini
 
 ![Blue Reflection Tie Costumes](/src/img/costumes/BlueReflectionTieCostumes.png)
+
+**Reflector Costumes:**
+- Hinako's Reflector Costume
+- Yuzu's Reflector Costume
+- Lime's Reflector Costume
+- Hiori's Reflector Costume
+- Ruka's Reflector Costume
+- Momo's Reflector Costume
+- Mio's Reflector Costume
+- Niina's Reflector Costume
+- Uta's Reflector Costume
+- Shino's Reflector Costume
+
+![Blue Reflection Reflector Costumes](/src/img/costumes/BlueReflectionReflectorCostumes.png)
+
+- Ryoka's Reflector Costume
+- Amiru's Reflector Costume
+- Mio's Reflector Costume 2
+- Mio's First Timeline Reflector Costume
+- Shino's Reflector Costume 2
+- Ao's Reflector Costume
+- Kokoro's Reflector Costume
+- Rena's Reflector Costume
+- Shiho's Reflector Costume
+
+![Blue Reflection Reflector Costumes 2](/src/img/costumes/BlueReflectionReflectorCostumes2.png)
+
+**Eroded Costumes:**
+
+- Měiqí's Eroded Costume
+- Kanna's Eroded Costume
+- Ayami's Eroded Costume
+- Yu Alesia's Eroded Costume
+- Yukiko's Eroded Costume
+- Nanaka's Eroded Costume
+- Kirara's Eroded Costume
+
+![Blue Reflection Eroded Costumes](/src/img/costumes/BlueReflectionErodedCostumes.png)
