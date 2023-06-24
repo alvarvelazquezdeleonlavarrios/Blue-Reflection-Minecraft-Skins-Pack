@@ -52,7 +52,7 @@ Contains the skins of the characters from the sequel of the first game and the a
 - Uta Komagawa (Hoshinomiya Uniform)
 - Yuki Kinjou (Hoshinomiya Uniform)
 
-![Blue Reflection Tie Hoshinomiya](/src/img/brT/BlueReflectionTieHoshinomiya.png)
+![Blue Reflection Tie Hoshinomiya School Uniform](/src/img/brT/BlueReflectionTieHoshinomiyaSchoolUniform.png)
 
 **Hoshinomiya Swimsuit:**
 - Ao Hoshizaki (Hoshinomiya Swimsuit)
