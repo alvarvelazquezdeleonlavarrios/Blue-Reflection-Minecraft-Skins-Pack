@@ -1,35 +1,21 @@
 ## Uniforms
-Contains the skins of the uniforms of each character or school in the franchise. They can be used as templates for characters from other video games or series, even for your own character if you want to cosplay him/her. Recomended to edit your custom character with the uniform templates via [Nova Skin](https://minecraft.novaskin.me/#) editor page.
+Templates of each school or character’s uniform seen in the franchise. Available for using them to dress up your Minecraft player’s custom skin with the editor of your preference.
 
-**Uniforms:**
-- Ao's School Uniform
-- Hoshinomiya School Uniform
-- Kirara's School Uniform
-- Kokoro's School Uniform
-- Meigetsu Girls High School Uniform
-- Rena's School Uniform
-- Shiho's School Uniform
-- St Inés Academy Uniform
-- Tsukinomiya School Uniform
-- Yuki's School Uniform
+![Blue Reflection Uniforms Cover](/src/img/uniforms/BlueReflectionUniformsCover.png)
+
+
+**Blue Reflection:**
 
 ![Blue Reflection Uniforms](/src/img/uniforms/BlueReflectionUniforms.png)
 
-- Ayami's School Uniform
-- Kanna's School Uniform
-- Měiqí's School Uniform
-- Nanaka's School Uniform
-- Yu Alesia's School Uniform
-- Yukiko's School Uniform
-- Protagonist's School Uniform
+**Blue Reflection Ray:**
 
-![Blue Reflection Uniforms 2](/src/img/uniforms/BlueReflectionUniforms2.png)
+![Blue Reflection Ray Uniforms](/src/img/uniforms/BlueReflectionRayUniforms.png)
 
-- Hoshinomiya School Swimsuit
-- Competitive Swimwear
-- Hoshinomiya School Gym Uniform
-- Tsukinomiya School Gym Uniform
-- Green Sports Outfit
-- Platanus kombini Uniform
+**Blue Reflection Tie:**
 
-![Blue Reflection Uniforms 3](/src/img/uniforms/BlueReflectionUniforms3.png)
+![Blue Reflection Tie Uniforms](/src/img/uniforms/BlueReflectionTieUniforms.png)
+
+**Blue Reflection Sun:**
+
+![Blue Reflection Sun Uniforms](/src/img/uniforms/BlueReflectionSunUniforms.png)

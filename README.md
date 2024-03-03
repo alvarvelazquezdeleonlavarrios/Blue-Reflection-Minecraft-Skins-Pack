@@ -1,14 +1,18 @@
 # Blue Reflection Minecraft Skins Pack
 
-![BlueReflectionxMinecraft](src/img/logos/BlueReflectionxMinecraft.png)
+![Blue Reflection Minecraft Cover](src/img/manual/BlueReflectionMinecraftCover.png)
 
 Welcome! This is an **Unofficial/Fan made** project about the magical girls RPG videogame franchise **Blue Reflection**.
 
-This project contains the skins of each character seen on the games and the anime T.V. show, which can be used as custom skins for the player in Minecraft PC (Java & Bedrock) and Mobile (Pocket) editions (unfortunately, not supported in console versions).
+The project contains skins of each character seen on the games and the anime TV show, which can be used as custom skins in Minecraft Java & Bedrock editions, according to the player’s body type: **Classic (Steve/4px)** and **Slim (Alex/3px) shapes**
 
-Giving a short context, in the games (and anime) there are students and *Reflectors*, magical girls who fight with the power of feelings. Therefore, this pack contains mainly student and reflector skins, but also has many other outfits based on official DLCs and more.
+![Blue Reflection Body Shape](src/img/manual/BlueReflectionBodyShape.png)
 
-In each link below, is mentioned the pack structure and its content organized in the following folders. Each one has custom skins for students, *reflectors* and other outfits in their **classic (4px) and slim (3px) body** type respectively, so you don't need to edit the images if you want to change the body type. All the textures are in PNG format.
+## Skins Pack Content
+
+The skins pack’s content is organized in the following folders:
+
+![Blue Reflection Pack Content](src/img/manual/BlueReflectionPackContent.png)
 
 - [Blue Reflection](/src/BlueReflection.md)
 - [Blue Reflection Ray](/src/BlueReflectionRay.md)
@@ -18,16 +22,16 @@ In each link below, is mentioned the pack structure and its content organized in
 - [Costumes](/src/Costumes.md)
 - [Accessories](/src/Accessories.md)
 
-For further information about downloading and applying the skins to the player, read the [Online Manual](/MANUAL.md) or downlad one of the Offline User Manuals linked below, which also contains the latest official release's features.
+Each one has its respective skin images in their **Classic (Steve/4px)** and **Slim (Alex/3px) body** types respectively, so the player doesn't need to edit the images.
 
-- [Offline User Manual Light](/UserManualLight.pdf)
-- [Offline User Manual Dark](/UserManualDark.pdf)
+## Manual
 
-For terms of use of this project, read the [License](/LICENSE).
+For further information about downloading and applying the skins to the player, read the [Online Manual](/MANUAL.md).
 
+There are also two Offline Manual versions (light and dark) inside the zip file of each release.
 
-### Disclaimer
+## Disclaimer
 
-The Blue Reflection brand belongs to Koei Tecmo Holdings Co., Ltd. and Gust Co. Ltd., so I don't own any rights about the Blue Reflection franchise, including all the tangible and intangible products and goods.
+The Blue Reflection brand belongs to Koei Tecmo Holdings Co., Ltd. and Gust Co. Ltd. All another rights reserved by their respective owners.
 
-All another rights reserved by their respective owners.
+For terms of use of this project, read its [License](/LICENSE).

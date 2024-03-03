@@ -1,109 +1,45 @@
 ## Blue Reflection Ray
-Contains the skins of the characters from the anime T.V. show, spin-off of the first game, released in 2021.
+Contains the skins of the characters from the anime TV show, spin-off of the first game, broadcast in 2021.
 
 **Student skins:**
-- Amiru Sumeragi (student)
-- Hiori Hirahara (student)
-- Lime Shijou
-- Mio Hirahara (student)
-- Miyako Shirakaba
-- Momo Tanabe (student)
-- Niina Yamada (student)
-- Ruka Hanari (student)
-- Ryoka Tachibana (student)
-- Shino Mizusaki (student)
-- Uta Komagawa (student)
-- Yuri Saiki
-- Yuzu Shijou
+Skins set with the main characters in their default student aspect.
 
 ![Blue Reflection Ray Student](/src/img/brR/BlueReflectionRayStudentCharacters.png)
 
 **Reflector skins:**
-- Amiru Sumeragi (reflector)
-- Hiori Hirahara (reflector)
-- Mio Hirahara (reflector)
-- Mio Hirahara (reflector 2)
-- Momo Tanabe (reflector)
-- Niina Yamada (reflector)
-- Ruka Hanari (reflector)
-- Ryoka Tachibana (reflector)
-- Shino Mizusaki (reflector)
-- Shino Mizusaki (reflector 2)
-- Uta Komagawa (reflector)
+Skins set with the main characters in their magical girl form.
 
 ![Blue Reflection Ray Reflector](/src/img/brR/BlueReflectionRayReflectorCharacters.png)
-![Blue Reflection Ray Shino Mizusaki Reflector](/src/img/brR/BlueReflectionRayReflectorShinoMizusaki.png)
+![Blue Reflection Ray Shino Mizusaki Reflector](/src/img/brR/BlueReflectionRayReflectors2.png)
 
 **Minor characters:**
-- Asako Ryono
-- Ayumu Fujii
-- Kana Sugiura
-- Kano Mizusaki
-- Kaori Ema
-- Kokoro Utsubo
-- Kombini Guy
-- Nozomi
-- Yukiko Takaoka
-- Yuma Yazaki
+Skins set with the minor characters seen throughout the episodes.
 
 ![Blue Reflection Ray Minor Characters](/src/img/brR/BlueReflectionRayMinorCharacters.png)
 
 **Children:**
-- Hiori Hirahara (child)
-- Shino Mizusaki (child)
-- Kano Mizusaki (child)
-- Niina Yamada (child)
+Skins set with some characters when they’re children, seen in some episodes.
 
 ![Blue Reflection Ray Children](/src/img/brR/BlueReflectionRayChildren.png)
 
 **First Timeline Characters:**
-- Mio Hirahara (First Timeline Student)
-- Mio Hirahara (First Timeline Reflector)
-- Momo Tanabe (First Timeline Outfit)
+Skins set of Mio Hirahara and Momo Tanabe in their student and reflector aspects seen during the first timeline events.
 
 ![Blue Reflection Ray First Timeline](/src/img/brR/BlueReflectionRayFirstTimeline.png)
 ![Blue Reflection Ray First Timeline 2](/src/img/brR/BlueReflectionRayFirstTimeline2.png)
 
 **Casual Outfits:**
-- Hiori Hirahara (Casual Outfit 1)
-- Hiori Hirahara (Casual Outfit 2)
-- Hiori Hirahara (Casual Outfit 3)
-- Hiori Hirahara (Casual Outfit 4)
-- Hiori Hirahara (Casual Outfit 5)
-- Hiori Hirahara (Casual Outfit 6)
-- Ruka Hanari (Casual Outfit 1)
-- Ruka Hanari (Casual Outfit 2)
-- Ruka Hanari (Casual Outfit 3)
-- Ruka Hanari (Casual Outfit 4)
+Skins set with some main characters using casual clothes throughout the series.
 
 ![Blue Reflection Casual Outfits](/src/img/brR/BlueReflectionRayCasualOutfits.png)
 
-- Momo Tanabe (Casual Outfit 1)
-- Momo Tanabe (Casual Outfit 2)
-- Momo Tanabe (Casual Outfit 3)
-- Momo Tanabe (Casual Outfit 4)
-- Miyako Shirakaba (Casual Outfit 1)
-- Miyako Shirakaba (Casual Outfit 2)
-- Miyako Shirakaba (Casual Outfit 3)
-- Miyako Shirakaba (Casual Outfit 4)
-
 ![Blue Reflection Casual Outfits 2](/src/img/brR/BlueReflectionRayCasualOutfits2.png)
-
-- Mio Hirahara (Casual Outfit 1)
-- Mio Hirahara (Casual Outfit 2)
-- Mio Hirahara (Casual Outfit 3)
-- Mio Hirahara (Casual Outfit 4)
-- Mio Hirahara (Casual Outfit 5)
-- Mio Hirahara (Casual Outfit 6)
-- Niina Yamada (Casual Outfit 1)
-- Niina Yamada (Casual Outfit 2)
-- Niina Yamada (Casual Outfit 3)
-- Ryoka Tachibana (Casual Outfit)
-- Amiru Sumeragi (Casual Outfit)
 
 ![Blue Reflection Casual Outfits 3](/src/img/brR/BlueReflectionRayCasualOutfits3.png)
 
 **Additional skins:**
+Skins set with characters wearing miscellaneous clothes throughout the series.
+
 - Hiori Hirahara (Gym Uniform)
 - Ruka Hanari (Gym Uniform)
 - Momo Tanabe (Gym Uniform)
@@ -130,14 +66,6 @@ Contains the skins of the characters from the anime T.V. show, spin-off of the f
 ![Blue Reflection Ray Additional Skins 2](/src/img/brR/BlueReflectionRayAdditionalSkins2.png)
 
 **Pajamas:**
-- Hiori Hirahara (Pajama)
-- Ruka Hanari (Pajama)
-- Miyako Shirakaba (Pajama)
-- Shino Mizusaki (Pajama)
-- Kano Mizusaki (Pajama)
-- Ryoka Tachibana (Pajama)
-- Amiru Sumeragi (Pajama)
-- Shino Mizusaki (Pajama Child)
-- Kano Mizusaki (Pajama Child)
+Skins set with some characters wearing their respective pajamas, seen throughout the series.
 
 ![Blue Reflection Ray Pajamas](/src/img/brR/BlueReflectionRayPajamas.png)
