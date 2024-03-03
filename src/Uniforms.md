@@ -1,7 +1,7 @@
 ## Uniforms
 Templates of each school or character’s uniform seen in the franchise. Available for using them to dress up your Minecraft player’s custom skin with the editor of your preference.
 
-![Blue Reflection Uniforms Cover](/src/img/uniforms/BlueReflectionUniformsCover.png)
+![Blue Reflection Uniforms Cover](/src/img/manual/BlueReflectionUniformsCover.png)
 
 
 **Blue Reflection:**

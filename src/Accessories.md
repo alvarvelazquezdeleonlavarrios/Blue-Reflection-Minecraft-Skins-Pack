@@ -1,7 +1,7 @@
 ## Accessories
 Templates of each magical girl or miscellaneous accessory seen in the franchise. Available for using them to dress up your Minecraft player’s custom skin with the editor of your preference.
 
-![Blue Reflection Accessories Cover](/src/img/uniforms/BlueReflectionAccessoriesCover.png)
+![Blue Reflection Accessories Cover](/src/img/manual/BlueReflectionAccessoriesCover.png)
 
 
 **Blue Reflection:**

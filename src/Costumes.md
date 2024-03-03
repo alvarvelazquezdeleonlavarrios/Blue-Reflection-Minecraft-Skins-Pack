@@ -1,7 +1,7 @@
 ## Costumes
 Templates of each magical girl or miscellaneous costume seen in the franchise. Available for using them to dress up your Minecraft player’s custom skin with the editor of your preference.
 
-![Blue Reflection Costumes Cover](/src/img/uniforms/BlueReflectionCostumesCover.png)
+![Blue Reflection Costumes Cover](/src/img/manual/BlueReflectionCostumesCover.png)
 
 
 **Blue Reflection - Reflectors:**
