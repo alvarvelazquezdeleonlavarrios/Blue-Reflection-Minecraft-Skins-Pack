@@ -58,6 +58,21 @@ Skin based on the official Nights of Azure collaboration DLC costume.
 
 ![Blue Reflection Nights of Azure Costume](/src/img/br/BlueReflectionNightsOfAzureCostume.png)
 
+**Mr. Bear:**
+Skins set inspired on the character that Lime Shijou uses as her weapon.
+
+![Blue Reflection Mr Bear](/src/img/br/BlueReflectionMrBear.png)
+
+**Track & Field Uniform:**
+Skins set inspired on the special gym uniform used by Rika Yoshimura throughout Blue Reflection chapters.
+
+![Blue Reflection Track & Field Uniform](/src/img/br/BlueReflectionTrackAndFieldUniform.png)
+
+**Winter Uniform:**
+Skins set inspired on the Hoshinomiya winter uniform that Yuri Saiki uses all the time in the game.
+
+![Blue Reflection Winter Uniform](/src/img/br/BlueReflectionWinterUniform.png)
+
 **Green Sports Outfit:**
 Skins set based on a screenshot posted in the Blue Reflection Fandom webpage about a modified 3D model of Hoshinomiya School Track & Field uniform.
 

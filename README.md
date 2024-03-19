@@ -21,6 +21,7 @@ The skins pack’s content is organized in the following folders:
 - [Uniforms](/src/Uniforms.md)
 - [Costumes](/src/Costumes.md)
 - [Accessories](/src/Accessories.md)
+- [Heads](/src/Heads.md)
 
 Each one has its respective skin images in their **Classic (Steve/4px)** and **Slim (Alex/3px) body** types respectively, so the player doesn't need to edit the images.
 
