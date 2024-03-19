@@ -10,3 +10,13 @@ Skins set with the main characters in their default student aspect.
 Skins set with the main characters in their magical girl form.
 
 ![Blue Reflection Sun Eroded](/src/img/brS/BlueReflectionSunErodedCharacters.png)
+
+**Minor charaters:**
+Skins set with the minor characters from the main game story and some events.
+
+![Blue Reflection Sun Minor Charaters](/src/img/brS/BlueReflectionSunMinorCharacters.png)
+
+**Reflector skins:**
+Skins set with the reflector characters seen in the main story and some game events.
+
+![Blue Reflection Sun Reflector](/src/img/brS/BlueReflectionSunReflectorSkins.png)
